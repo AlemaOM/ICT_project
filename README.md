@@ -2,4 +2,4 @@
 **Bekzat Mazhit**
 **Ombaeva Alema**
 
-
+![ERD](ERD_for_website.png)
